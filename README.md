@@ -54,8 +54,7 @@ public class StudentsInsert {
 output: A new Student has been inserted successfully
  
      student_name  student_DOB	student_DOJ
-
-1	Rashmi	1994-05-15	2019-12-22
+1	Rashmi 	1994-05-15	2019-12-22
 2	Harshu	1994-06-11	2021-04-06
 3	Shraddha 1994-05-15	2021-12-08
 4	Dhiraj	1994-05-15	2019-12-22
